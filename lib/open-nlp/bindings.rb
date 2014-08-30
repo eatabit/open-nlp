@@ -20,9 +20,9 @@ module OpenNLP::Bindings
   # Default JARs to load.
   self.default_jars = [
     'jwnl-1.3.3.jar',
-    'opennlp-tools-1.5.2-incubating.jar',
-    'opennlp-maxent-3.0.2-incubating.jar',
-    'opennlp-uima-1.5.2-incubating.jar'
+    'opennlp-tools-1.5.3-incubating.jar',
+    'opennlp-maxent-3.0.3-incubating.jar',
+    'opennlp-uima-1.5.3-incubating.jar'
   ]
 
   # Default namespace.
